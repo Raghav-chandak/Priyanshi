@@ -3,3 +3,5 @@ while True:
     if 1<=number<=10:
         print("Good choice")
         break
+    else:
+        print("Invalid number, Try again.")
